@@ -1,14 +1,14 @@
 
 #include"main.h"
 #include "MCAL/GPIO/gpio.h"
-#include "ECU/LED/led.h"
-#include "ECU/KEYPAD/keypad.h"
-#include "ECU/RELAY/relay.h"
-#include "ECU/7_SEGMENT/_7_segment.h"
-#include "ECU/DC_motor/dc_motor.h"
+//#include "ECU/LED/led.h"
+//#include "ECU/KEYPAD/keypad.h"
+//#include "ECU/RELAY/relay.h"
+//#include "ECU/7_SEGMENT/_7_segment.h"
+//#include "ECU/DC_motor/dc_motor.h"
 #include "ECU/LCD/lcd.h"
 #include "MCAL/INTERRUPT/mcal_external_interrupt.h"
-#include"MCAL/temp_timer1/timer1.h"
+//#include"MCAL/temp_timer1/timer1.h"
 
 
 void int_1_handler(void);
